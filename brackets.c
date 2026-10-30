@@ -1,3 +1,4 @@
+//利用 栈 思想 
 #include<stdio.h>
 #include<string.h>
 #define SIZE 10005
